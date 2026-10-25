@@ -85,7 +85,7 @@ Full tables are in results/summary\_wape.csv and results/monthly\_wape.csv.
 
 |File|Purpose|
 |-|-|
-|fashion\_search\_demand.py|Download, features, models, evaluation and plots|
+|fashion\_demand.py|Download, features, models, evaluation and plots|
 |Requirements.txt|Python dependencies|
 |results/summary\_wape.csv|Error by approach and period|
 |results/monthly\_wape.csv|Error by month and approach|
