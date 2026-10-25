@@ -1,0 +1,6 @@
+model,first 12 months after cutoff (WAPE %),after 12 months (WAPE %)
+average of last 4 weeks,15.4,16.7
+"gradient boosting, frozen",9.7,11.1
+"gradient boosting, retrained weekly",9.8,10.3
+last week,10.9,11.5
+same week last year,14.5,15.8

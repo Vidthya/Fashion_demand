@@ -196,7 +196,6 @@ def plot_error(monthly, cutoff):
     ax.spines[["top", "right"]].set_visible(False)
     fig.tight_layout(); fig.savefig(f"{out}/forecast_error_by_month.png", dpi=160); plt.close(fig)
 
-!pip install -q pytrends
 
 def main(csv_path):
     os.makedirs(out, exist_ok=True)
